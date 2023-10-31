@@ -1,5 +1,5 @@
 from add import add
 
 def test_addition():
-    result=add(20,8)
-    assert result == 28
+    result=add(30,8)
+    assert result == 38
